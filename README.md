@@ -10,8 +10,7 @@ Before starting, make sure you have Python installed on your system.
 
 1. Install the required dependencies:
 
-```
-bash
+```bash
 pip install -r requirements.txt
 ```
 
